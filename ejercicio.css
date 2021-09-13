@@ -1,0 +1,30 @@
+body{
+    background-image: url("https://fondosmil.com/fondo/17010.jpg");
+}
+#title{
+    background-color: black;
+    color: blue;
+    text-align: center;
+    border-style: dotted;
+    font-family: cursive;
+}
+h3{
+    background-color: green;
+    color: blanchedalmond;
+}
+p{
+    background-color: yellow;
+    color: purple;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-weight: 50;
+    font-family: fantasy;
+}
+ul{
+    background-image: url("https://www.xtrafondos.com/wallpapers/vertical/ola-de-colores-6815.jpg");
+    text-align: left;
+    color: black;
+    list-style-type: upper-roman;
+    margin-right: 1200px;
+}

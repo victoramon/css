@@ -1,0 +1,31 @@
+/*body{
+    background-color: lightblue ;
+}*/
+
+#title{
+    color: limegreen;
+    text-align: center;
+}
+
+/*p{
+    color: mediumaquamarine;
+    background-color: black;
+}*/
+
+.p-large{
+    font-size: 32px;
+}
+
+.p-green {
+    color: green;
+    background-color: hotpink;
+}
+
+.p-red {
+    color: red;
+    background-color: black;
+}
+
+/* h1{
+    color: red;
+} */
