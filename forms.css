@@ -1,0 +1,10 @@
+body {
+    background-color: gold;
+}
+div {
+    background-color: royalblue;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+}

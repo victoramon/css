@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+.p-1 {
+    background-color: darkslategrey;
+    color: red;
+}
+.p-2 {
+    background-color: gray;
+    color: purple;
+}
+.p-3 {
+    background-color: lightgray;
+}
+table {
+    background-color: lightgray;
+    text-align: left;
+}
