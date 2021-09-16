@@ -1,0 +1,32 @@
+body {
+    background-color: lightgray;
+}
+h1 {
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+}
+div {
+    background-color: gray;
+    color: white;
+    font-family: 'Prompt', sans-serif;
+    width: 80%;
+    margin: auto; 
+    font-size: 20px;   
+}
+img {
+    height: 100px;
+    float: left;
+    margin-left: 80px;
+}
+.div1 {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    margin-right: 200px;
+}
+.red {
+    color: red;
+}
+.white {
+    background-color: white;
+}
